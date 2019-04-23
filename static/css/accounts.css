@@ -1,0 +1,14 @@
+body {
+    background-image: url(http://sfwallpaper.com/images/free-background-images-19.jpg);
+}
+
+.logo {
+    font-family: 'Peralta', cursive;
+}
+
+.logo a {
+    color: rgba(0,0,0,.9);
+}
+.logo a:hover, .logo a:active {
+    text-decoration: none;
+}
